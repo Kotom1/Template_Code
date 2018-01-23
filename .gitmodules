@@ -1,0 +1,3 @@
+[submodule "Madagascar"]
+	path = Madagascar
+	url = https://github.com/SIIGUPC/src.git

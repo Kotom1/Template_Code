@@ -1,0 +1,15 @@
+2.1-git	sfspike	Projects/TemplateCode/C:	cuichao@cuichao-VirtualBox	Fri Feb 23 21:14:19 2018
+
+	d2=0.1
+	o1=0
+	n2=150
+	o2=0
+	label1="Time"
+	data_format="native_float"
+	label2="Distance"
+	esize=4
+	in="./vel.rsf@"
+	unit1="s"
+	unit2="km"
+	d1=0.1
+	n1=100
